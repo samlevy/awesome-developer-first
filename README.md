@@ -257,6 +257,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [ngrok](https://ngrok.com/) - Generate public URLs for internal servers (behind NAT/firewall).
 * [Nylas](https://www.nylas.com/) - APIs for productivity workflows (email, calendar, contacts...) - like plaid for productivity.
 * [Plain](https://plain.com) - API-first customer service platform (support, feedback, rating widgets...).
+* [Redirect.ing](https://redirect.ing) - Fast & secure domain redirects without managing servers and SSL certificates.
 * [Volta](https://volta.net) - Fast, elegant GitHub desktop and web app.
 
 ## Monitoring
